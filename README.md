@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lucius C.</h1>  
 <h3 align="center">An aspiring software engineer. A self-taught student developer.</h3>  
 
-### Languages (sorted according to level of proficiency):  
+### Languages (sorted according to level of proficiency, descending order):  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
