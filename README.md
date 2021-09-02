@@ -36,3 +36,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czlucius&theme=tokyonight&layout=compact)  
 
 [![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=12204281&layout=compact)](https://stackoverflow.com/users/12204281/lcz)
+
+### Contributions to Open-Source:
+
+- [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) (Mozilla Firefox for Android)
+  - [Issue #18727](https://github.com/mozilla-mobile/fenix/issues/18727) - https://github.com/mozilla-mobile/fenix/pull/20486
+- [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) (Mozilla Android Components)
+  - [Issue #9830](https://github.com/mozilla-mobile/android-components/issues/9830) - https://github.com/mozilla-mobile/android-components/pull/10686
+- [nextcloud/android](https://github.com/nextcloud/android) (Nextcloud Android App)
+  - [Issue #7633](https://github.com/nextcloud/android/issues/7633) - https://github.com/nextcloud/android/pull/7664
+- [twillio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art) (Open Pixel Art by Twillio)
+  - https://github.com/twilio-labs/open-pixel-art/pull/3209
+  - My first successful PR!
