@@ -41,6 +41,7 @@
 
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) (Mozilla Firefox for Android)
   - [Issue #18727](https://github.com/mozilla-mobile/fenix/issues/18727) - https://github.com/mozilla-mobile/fenix/pull/20486
+  - [Issue #13336](https://github.com/mozilla-mobile/fenix/issues/13336) - https://github.com/mozilla-mobile/fenix/pull/23169
 - [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) (Mozilla Android Components)
   - [Issue #9830](https://github.com/mozilla-mobile/android-components/issues/9830) - https://github.com/mozilla-mobile/android-components/pull/10686
 - [nextcloud/android](https://github.com/nextcloud/android) (Nextcloud Android App)
