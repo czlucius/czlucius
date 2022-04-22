@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lucius C.</h1>  
-<h3 align="center">An aspiring software engineer. A self-taught student developer.</h3>  
+<h3 align="center">An aspiring software engineer/computer scientist. A self-taught student developer.</h3>  
 
 ### Languages:  
 
