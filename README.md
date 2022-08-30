@@ -57,3 +57,11 @@ Viewers since 15/2/2022: ![GitHub Profile viewers](https://komarev.com/ghpvc/?us
 - [twillio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art) (Open Pixel Art by Twillio)
   - https://github.com/twilio-labs/open-pixel-art/pull/3209
   - My first successful PR!
+  
+  
+
+[<img style="border:0 none;"
+       alt="Developers for Firefox"
+       height=200
+       src="https://code.cdn.mozilla.net/for-firefox/badges/assets/Developers_For_Firefox_Dark.png">](https://www.mozilla.org/firefox/new/?utm_source=devs-for.firefox.com&utm_medium=referral&utm_campaign=devs-for-firefox&utm_content=Developers_For_Firefox_Dark)
+
