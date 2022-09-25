@@ -7,17 +7,17 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Currently learning:
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks/Platforms:
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-#### Currently learning:
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+#### Currently learning:
 ![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white)
 
 ### IDEs I use:
@@ -50,6 +50,7 @@ Viewers since 15/2/2022: ![GitHub Profile viewers](https://komarev.com/ghpvc/?us
 - [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix) (Mozilla Firefox for Android)
   - [Issue #18727](https://github.com/mozilla-mobile/fenix/issues/18727) - https://github.com/mozilla-mobile/fenix/pull/20486
   - [Issue #13336](https://github.com/mozilla-mobile/fenix/issues/13336) - https://github.com/mozilla-mobile/fenix/pull/23169
+  - [Issue #26093](https://github.com/mozilla-mobile/fenix/issues/26093) - https://github.com/mozilla-mobile/fenix/pull/26705#issuecomment-1231738235
 - [mozilla-mobile/android-components](https://github.com/mozilla-mobile/android-components) (Mozilla Android Components)
   - [Issue #9830](https://github.com/mozilla-mobile/android-components/issues/9830) - https://github.com/mozilla-mobile/android-components/pull/10686
 - [nextcloud/android](https://github.com/nextcloud/android) (Nextcloud Android App)
