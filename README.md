@@ -47,7 +47,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czlucius&theme=nord&layout=donut-vertical)
 
-[![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=12204281&layout=compact)](https://stackoverflow.com/users/12204281/lcz)
+[![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=12204281)](https://stackoverflow.com/users/12204281/lcz)
 
 Viewers since 15/2/2022: ![GitHub Profile viewers](https://komarev.com/ghpvc/?username=czlucius)
 
