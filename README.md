@@ -45,7 +45,7 @@
 
 ![czlucius's GitHub stats](https://github-readme-stats.vercel.app/api?username=czlucius&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czlucius&theme=tokyonight&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=czlucius&theme=nord&layout=donut-vertical)
 
 [![Stack Overflow](https://github-readme-stackoverflow.vercel.app/?userID=12204281&layout=compact)](https://stackoverflow.com/users/12204281/lcz)
 
