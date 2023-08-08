@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lucius </h1>  
-<h3 align="center">An aspiring software engineer/computer scientist. A self-taught student developer. A cybersecurity enthusiast.</h3>  
+<h3 align="center">An aspiring software engineer/computer scientist. A self-taught student developer. A cybersecurity hobbyist.</h3>  
 
 ### Languages:  
 
@@ -18,6 +18,7 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
