@@ -12,6 +12,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![x86 Assembly](./asm.svg)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Verilog](./verilog.svg)
 
 ### Frameworks/Platforms:
 
